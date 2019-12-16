@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="app_state_bg_cover_normal">#AEE6FF</color>
+    <color name="app_state_bg_normal">#1A09B2FF</color>
+    <color name="app_state_bg_open">#09B2FF</color>
+    <color name="app_state_border_normal">#000099FF</color>
+    <color name="app_state_text_normal">#00A6F2</color>
+    <color name="app_state_text_fail">#D64343</color>
+    <color name="app_card_circle_color">#14000000</color>
+
+</resources>
